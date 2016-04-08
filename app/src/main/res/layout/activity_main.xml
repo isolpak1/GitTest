@@ -15,4 +15,12 @@
         android:textSize="16sp"
         android:gravity="center_vertical"
         android:text="1 - Project created in Shayan PC ..." />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:textSize="16sp"
+        android:gravity="center_vertical"
+        android:text="2 - Commited by azfaar ..." />
+
 </RelativeLayout>
