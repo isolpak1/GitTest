@@ -23,6 +23,13 @@ public class MainActivity extends AppCompatActivity {
         6 - Open Android Studio, go to File, Import Project
     */
 
+    //the issue was all files was not uploading at github in my case
+    //as you can see here, https://github.com/isolpak1/CustomCalender
+    //these files also needs to be uploaded
+
+    //in my case only app folder is uploaded therefore
+    //select all files manually, clicking on Add and then committing
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
