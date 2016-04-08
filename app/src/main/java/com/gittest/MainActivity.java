@@ -37,6 +37,8 @@ public class MainActivity extends AppCompatActivity {
     //Go to https://github.com/isolpak1/GitTest/settings/collaboration
     //Add azfaar to collaborators
 
+    //http://stackoverflow.com/questions/7438313/pushing-to-git-returning-error-code-403-fatal-http-request-failed
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
