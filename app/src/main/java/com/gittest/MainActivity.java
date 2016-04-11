@@ -39,6 +39,11 @@ public class MainActivity extends AppCompatActivity {
 
     //http://stackoverflow.com/questions/7438313/pushing-to-git-returning-error-code-403-fatal-http-request-failed
 
+
+    //4 - 11-April-2016
+    //telling azfaar to create a pull request
+    //Tutorial : https://yangsu.github.io/pull-request-tutorial/
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
