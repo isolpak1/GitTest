@@ -44,9 +44,11 @@ public class MainActivity extends AppCompatActivity {
     //telling azfaar to create a pull request
     //Tutorial : https://yangsu.github.io/pull-request-tutorial/
 
-
-
     //5
+
+    //6
+    //Deleting azfaar branch from github.com and pushing
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
