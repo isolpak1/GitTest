@@ -7,4 +7,5 @@ public class Develop {
     String commitNumber3ForDevelopBranch;
     String commitNumber4ForDevelopBranch;
     String newCommit1;
+    String newCommit2;
 }
